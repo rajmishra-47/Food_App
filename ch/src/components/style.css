@@ -1,0 +1,58 @@
+body{
+  background-image:url('E:\bld\New folder\3\ch\src\components\back.jpg');
+  
+}
+#text{
+
+    margin: 10px;
+
+    width: 13%;
+    height: 20px;
+
+    border-radius: 10px;
+}
+
+.search{
+    
+    margin-top: 10px;
+}
+
+#click{
+
+    border-radius: 10px;
+}
+
+
+.box {
+    width: auto; 
+    height: 400px; 
+    /* overflow: hidden;  */
+  }
+  
+  img {
+    width: auto; 
+    height: 100%; 
+    object-fit: cover; 
+    /* float: left; */
+
+    margin-top:10px;
+    /* margin-left: 200px; */
+
+    border-radius: 20px;
+  }
+  
+
+  .fixed-div {
+
+    width: auto; 
+    height: auto; 
+    overflow: auto;
+    float: right;
+    margin-top: 20px; 
+
+    background-color: rgb(237, 202, 189);
+
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    border-radius: 20px;
+  }
+  
